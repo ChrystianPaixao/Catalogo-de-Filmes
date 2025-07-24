@@ -15,7 +15,7 @@ try{
     console.log("Deu ruim!", error);
 }
 
-app.listen(3000, (error)=>{
+app.listen(8000, (error)=>{
     if(error){
         console.log("Servido não subiu")
     }
